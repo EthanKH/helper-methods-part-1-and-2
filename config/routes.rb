@@ -27,4 +27,12 @@ Rails.application.routes.draw do
   # delete("/movies/:id", { :controller => "movies", :action => "destroy" })
 
   #------------------------------
+
+  # Part 1
+  # https://learn.firstdraft.com/lessons/160-helper-methods-part-1
+  # https://share.descript.com/view/bY2qZcJtJHl
+
+  # Part 2
+  # https://learn.firstdraft.com/lessons/161-helper-methods-part-2
+  # https://share.descript.com/view/TrSygtEDGsx
 end
